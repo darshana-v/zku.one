@@ -4,7 +4,7 @@
 
 1. Smart contract is a code that gets executed automatically when predetermined terms and conditions are met. It is essentially a set of self-executing instructions that let all participants be immediately certain of the outcome, without any 3rd party intermediary's involvement. They can also automate a workflow, triggering the next action when conditions are met.
 
-   **Prerequisite for smart contract ddeployment:**
+   **Prerequisite for smart contract deployment:**
 
    - Code compiler and hasher
    - Some tokens for gas fees
@@ -16,8 +16,8 @@
    - Setup mainnet node access
    - Install tools
    - Test your smart contract, ideally in testnet
-   - Connect to wallet, and some tokens for deployment using using tools
-   - Verify your smart contract using tracker app
+   - Connect to wallet, and some tokens for deployment using tools
+   - Verify your smart contract using any tracker app
 
 2. Gas refers to the cost necessary to perform a transaction on the network. Miners set the price of gas based on supply and demand for the computational power of the network needed to process smart contracts and other transactions.
 
